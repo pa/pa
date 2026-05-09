@@ -5,6 +5,11 @@
         <animate attributeName="width" from="0" to="220" begin="0.6s" dur="1.4s" fill="freeze"/>
       </rect>
     </clipPath>
+    <clipPath id="type2">
+      <rect x="0" y="0" width="0" height="360">
+        <animate attributeName="width" from="0" to="240" begin="3.2s" dur="1.4s" fill="freeze"/>
+      </rect>
+    </clipPath>
     <filter id="phosphor" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="1.5" result="blur"/>
       <feMerge>
@@ -49,5 +54,36 @@
       // TECH LEAD DEVOPS @ FACETS.CLOUD
       <animate attributeName="opacity" from="0" to="1" begin="2.5s" dur="0.4s" fill="freeze"/>
     </text>
+    <!-- Line 2: cat whoami.json -->
+    <text x="20" y="210" opacity="0">
+      <tspan fill="#00ff41">pa@dev</tspan><tspan fill="#2a5e3a">:</tspan><tspan fill="#00aaff">~</tspan><tspan fill="#ccffcc">$ </tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="3.0s" dur="0.2s" fill="freeze"/>
+    </text>
+    <g clip-path="url(#type2)">
+      <text x="115" y="210" fill="#ccffcc">cat whoami.json</text>
+    </g>
+
+    <!-- JSON output -->
+    <g font-size="13" opacity="0">
+      <text x="20" y="240">
+        <tspan fill="#557755">{</tspan>
+      </text>
+      <text x="40" y="258">
+        <tspan fill="#00cc33">"role"</tspan><tspan fill="#557755">: </tspan><tspan fill="#ccffcc">"Tech Lead DevOps"</tspan><tspan fill="#557755">,</tspan>
+      </text>
+      <text x="40" y="276">
+        <tspan fill="#00cc33">"company"</tspan><tspan fill="#557755">: </tspan><tspan fill="#ccffcc">"Facets.cloud"</tspan><tspan fill="#557755">,</tspan>
+      </text>
+      <text x="40" y="294">
+        <tspan fill="#00cc33">"focus"</tspan><tspan fill="#557755">: </tspan><tspan fill="#ccffcc">"Internal Developer Platforms · Cloud · DX"</tspan><tspan fill="#557755">,</tspan>
+      </text>
+      <text x="40" y="312">
+        <tspan fill="#00cc33">"location"</tspan><tspan fill="#557755">: </tspan><tspan fill="#ccffcc">"Chennai, IN"</tspan>
+      </text>
+      <text x="20" y="330">
+        <tspan fill="#557755">}</tspan>
+      </text>
+      <animate attributeName="opacity" from="0" to="1" begin="4.8s" dur="0.5s" fill="freeze"/>
+    </g>
   </g>
 </svg>
