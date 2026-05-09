@@ -1,19 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="800" height="360" preserveAspectRatio="xMidYMid meet" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace">
+<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 800 360" width="800" height="360" preserveAspectRatio="xMidYMid meet" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace">
+  <title>Pramodh Ayyappan — Tech Lead DevOps at Facets.cloud</title>
   <!-- Master loop: 13s cycle, restarts everything -->
   <rect width="0" height="0" fill="none">
     <animate id="loop" attributeName="x" from="0" to="0" begin="0s; loop.end+1s" dur="13s"/>
   </rect>
   <defs>
+    <!-- Timeline (all relative to loop.begin):
+         0.6  line 1 prompt visible, typing starts (cat profile.txt)
+         2.0  line 1 typing done
+         2.2  figlet name fades in
+         2.5  subtitle fades in
+         3.0  line 2 prompt visible
+         3.2  line 2 typing starts (cat whoami.json)
+         4.6  line 2 typing done
+         4.8  JSON output fades in
+        13.0  loop.end → all elements reset, +1s pause, restart -->
     <clipPath id="type1">
       <rect x="0" y="0" width="0" height="360">
         <animate attributeName="width" from="0" to="220" begin="loop.begin+0.6s" dur="1.4s" fill="freeze"/>
-        <animate attributeName="width" from="220" to="0" begin="loop.end" dur="0.1s" fill="freeze"/>
+        <animate attributeName="width" from="220" to="0" begin="loop.end" dur="0.001s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="type2">
       <rect x="0" y="0" width="0" height="360">
         <animate attributeName="width" from="0" to="240" begin="loop.begin+3.2s" dur="1.4s" fill="freeze"/>
-        <animate attributeName="width" from="240" to="0" begin="loop.end" dur="0.1s" fill="freeze"/>
+        <animate attributeName="width" from="240" to="0" begin="loop.end" dur="0.001s" fill="freeze"/>
       </rect>
     </clipPath>
     <filter id="phosphor" x="-20%" y="-20%" width="140%" height="140%">
@@ -45,7 +56,7 @@
     <text x="115" y="60" fill="#00ff41">
       <tspan>▊</tspan>
       <animate attributeName="x" from="115" to="227" begin="loop.begin+0.6s" dur="1.4s" fill="freeze"/>
-      <animate attributeName="x" from="227" to="115" begin="loop.end" dur="0.1s" fill="freeze"/>
+      <animate attributeName="x" from="227" to="115" begin="loop.end" dur="0.001s" fill="freeze"/>
       <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
     </text>
     <!-- ASCII figlet name (revealed after line 1 finishes) -->
@@ -55,19 +66,19 @@
       <text x="40" y="130" xml:space="preserve">|  _/|   / / _ \| |\/| | (_) | |) | __ |</text>
       <text x="40" y="145" xml:space="preserve">|_|  |_|_\/_/ \_\_|  |_|\___/|___/|_||_|</text>
       <animate attributeName="opacity" from="0" to="1" begin="loop.begin+2.2s" dur="0.6s" fill="freeze"/>
-      <animate attributeName="opacity" from="1" to="0" begin="loop.end" dur="0.1s" fill="freeze"/>
+      <animate attributeName="opacity" from="1" to="0" begin="loop.end" dur="0.001s" fill="freeze"/>
     </g>
     <!-- Subtitle -->
     <text x="40" y="170" fill="#557755" font-size="11" letter-spacing="1.2" opacity="0">
       // TECH LEAD DEVOPS @ FACETS.CLOUD
       <animate attributeName="opacity" from="0" to="1" begin="loop.begin+2.5s" dur="0.4s" fill="freeze"/>
-      <animate attributeName="opacity" from="1" to="0" begin="loop.end" dur="0.1s" fill="freeze"/>
+      <animate attributeName="opacity" from="1" to="0" begin="loop.end" dur="0.001s" fill="freeze"/>
     </text>
     <!-- Line 2: cat whoami.json -->
     <text x="20" y="210" opacity="0">
       <tspan fill="#00ff41">pa@dev</tspan><tspan fill="#2a5e3a">:</tspan><tspan fill="#00aaff">~</tspan><tspan fill="#ccffcc">$ </tspan>
       <animate attributeName="opacity" from="0" to="1" begin="loop.begin+3.0s" dur="0.2s" fill="freeze"/>
-      <animate attributeName="opacity" from="1" to="0" begin="loop.end" dur="0.1s" fill="freeze"/>
+      <animate attributeName="opacity" from="1" to="0" begin="loop.end" dur="0.001s" fill="freeze"/>
     </text>
     <g clip-path="url(#type2)">
       <text x="115" y="210" fill="#ccffcc">cat whoami.json</text>
@@ -94,7 +105,7 @@
         <tspan fill="#557755">}</tspan>
       </text>
       <animate attributeName="opacity" from="0" to="1" begin="loop.begin+4.8s" dur="0.5s" fill="freeze"/>
-      <animate attributeName="opacity" from="1" to="0" begin="loop.end" dur="0.1s" fill="freeze"/>
+      <animate attributeName="opacity" from="1" to="0" begin="loop.end" dur="0.001s" fill="freeze"/>
     </g>
   </g>
 </svg>
