@@ -7,4 +7,15 @@
   <rect x="1" y="1" width="798" height="28" fill="#0d2a14"/>
   <line x1="1" y1="29" x2="799" y2="29" stroke="#1a4a2a" stroke-width="1"/>
   <text x="20" y="20" fill="#2a5e3a" font-size="11">~/pramodh.ayyappan — bash</text>
+  <!-- Body group -->
+  <g font-size="14">
+    <!-- Line 1: pa@dev:~$ (static prompt) -->
+    <text x="20" y="60">
+      <tspan fill="#00ff41">pa@dev</tspan><tspan fill="#2a5e3a">:</tspan><tspan fill="#00aaff">~</tspan><tspan fill="#ccffcc">$ </tspan>
+    </text>
+    <!-- Blinking cursor block, positioned after the prompt -->
+    <text x="115" y="60" fill="#00ff41" font-size="14">▊
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
+    </text>
+  </g>
 </svg>
