@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pa/pa/main/assets/hero.svg?v=1" alt="pa@dev:~$ cat profile.txt — Pramodh Ayyappan, Tech Lead DevOps @ Facets.cloud" width="800"/>
+  <img src="https://raw.githubusercontent.com/pa/pa/master/assets/hero.svg?v=1" alt="pa@dev:~$ cat profile.txt — Pramodh Ayyappan, Tech Lead DevOps @ Facets.cloud" width="800"/>
 </p>
 
 <h3>
