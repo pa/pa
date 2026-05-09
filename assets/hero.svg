@@ -1,4 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="800" height="360" preserveAspectRatio="xMidYMid meet" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace">
+  <defs>
+    <clipPath id="type1">
+      <rect x="0" y="0" width="0" height="360">
+        <animate attributeName="width" from="0" to="220" begin="0.6s" dur="1.4s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
   <!-- Background -->
   <rect width="800" height="360" fill="#0a0a0a"/>
   <!-- Frame border -->
@@ -9,12 +16,17 @@
   <text x="20" y="20" fill="#2a5e3a" font-size="11">~/pramodh.ayyappan — bash</text>
   <!-- Body group -->
   <g font-size="14">
-    <!-- Line 1: pa@dev:~$ (static prompt) -->
+    <!-- Line 1: prompt + typed command -->
     <text x="20" y="60">
       <tspan fill="#00ff41">pa@dev</tspan><tspan fill="#2a5e3a">:</tspan><tspan fill="#00aaff">~</tspan><tspan fill="#ccffcc">$ </tspan>
     </text>
-    <!-- Blinking cursor block, positioned after the prompt -->
-    <text x="115" y="60" fill="#00ff41" font-size="14">▊
+    <g clip-path="url(#type1)">
+      <text x="115" y="60" fill="#ccffcc">cat profile.txt</text>
+    </g>
+    <!-- Cursor moves with typing -->
+    <text x="115" y="60" fill="#00ff41">
+      <tspan>▊</tspan>
+      <animate attributeName="x" from="115" to="227" begin="0.6s" dur="1.4s" fill="freeze"/>
       <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
     </text>
   </g>
