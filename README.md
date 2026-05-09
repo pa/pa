@@ -89,12 +89,20 @@ location     chennai, india
 
 <h3><code>$ kubectl top github --user=pa</code></h3>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pa&show_icons=true&hide_border=false&bg_color=0a0a0a&title_color=00ff41&text_color=ccffcc&icon_color=00cc33&border_color=1a4a2a" alt="github metrics for pa" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pa&layout=compact&hide_border=false&bg_color=0a0a0a&title_color=00ff41&text_color=ccffcc&border_color=1a4a2a" alt="top languages by usage" />
-</p>
+```text
+USER   REPOS    FOLLOWERS    FOLLOWING    GISTS    SINCE
+pa     38       18           31           1        2018-10
+
+LANGUAGE          USAGE                              REPOS
+python            █████████████████████████            7
+shell             ███████████░░░░░░░░░░░░░░            3
+go                ███████████░░░░░░░░░░░░░░            3
+javascript        ███████░░░░░░░░░░░░░░░░░░            2
+hcl               ███████░░░░░░░░░░░░░░░░░░            2
+typescript        ████░░░░░░░░░░░░░░░░░░░░░            1
+```
+
+> Snapshot: 2026-05-09 · sourced from `gh api users/pa`
 
 ---
 
