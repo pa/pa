@@ -1,24 +1,79 @@
-<h1 align="center">Hi 👋, I'm Pramodh Ayyappan</h1>
-<h3 align="center">I’m a DevOps engineer based in India! I truly enjoy what I do and I’m more of a self-made person, specifically the certifications and skills that I hold today is merely through self-learning and the passion I carry. Since, technology is a compulsive modernizing element, frequent changes in skills are the most expected, which I’m very comfortable with, as I’m tuned that way. Above all, I solely trust in dignity and commitment towards the work I’m engaged to, which is a significant part of progress</h3>
-
-- 🔭 I’m currently working on **building Facets.Cloud**
-
-- 👨‍💻 All of my projects are available at [pramodhayyappan.dev](https://pramodhayyappan.dev)
-
-- 📫 How to reach me **pramodh.ayyappan@hotmail.com**
-
-- 📄 Know about my experiences [here](https://1drv.ms/b/s!AhNH9mpWmo-EgcR7DGGElJnhCWQtEA?e=9Lf580](https://1drv.ms/b/s!AhNH9mpWmo-EgcR7DGGElJnhCWQtEA?e=9Lf580))
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pramodhayyappan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramodhayyappan" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pa/pa/main/assets/hero.svg?v=1" alt="pa@dev:~$ cat profile.txt — Pramodh Ayyappan, Tech Lead DevOps @ Facets.cloud" width="800"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<h3>
+  <code>pa@dev</code><code>:</code><code>~</code><code>$</code>
+  <code>whoami</code>
+</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pa&show_icons=true&locale=en&layout=compact" alt="pa" /></p>
+```json
+{
+  "role":     "Tech Lead DevOps",
+  "company":  "Facets.cloud",
+  "focus":    "Internal Developer Platforms · Cloud · DX",
+  "location": "Chennai, IN",
+  "since":    "Oct 2015"
+}
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pa&show_icons=true&locale=en" alt="pa" /></p>
+<h3>
+  <code>pa@dev</code><code>:</code><code>~</code><code>$</code>
+  <code>cat now.log</code>
+</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pa&" alt="pa" /></p>
+- `// platform`  Building the Internal Developer Platform at **Facets.cloud** — zero-trust access, observability, self-service infra
+- `// oss`       Maintaining [`termstack`](https://github.com/pa/termstack) — a Rust TUI framework for YAML-driven dashboards
+- `// writing`   Notes & lessons at [pramodhayyappan.dev/blog](https://pramodhayyappan.dev/blog)
+
+<h3>
+  <code>pa@dev</code><code>:</code><code>~</code><code>$</code>
+  <code>ls -la stack/</code>
+</h3>
+
+```text
+drwxr-xr-x  cloud/         AWS · GCP · Azure
+drwxr-xr-x  iac/           Terraform · AWS CDK · Crossplane · Helm
+drwxr-xr-x  containers/    Kubernetes · Docker · ArgoCD
+drwxr-xr-x  cicd/          GitHub Actions · Azure Pipelines · Jenkins
+drwxr-xr-x  observe/       Prometheus · Grafana · Loki · Kyverno
+drwxr-xr-x  languages/     Go · Python · Rust · Bash · TypeScript
+drwxr-xr-x  access/        Teleport · Ansible · Terratest
+```
+
+<h3>
+  <code>pa@dev</code><code>:</code><code>~</code><code>$</code>
+  <code>ls projects/</code>
+</h3>
+
+```text
+[BIN] termstack       [active] · Rust TUI framework, YAML-driven dashboards
+[BIN] gen-chart       [active] · Web chart generator, CSV/JSON in, PNG out
+[BIN] image-to-ascii  [active] · Image → ASCII converter, web-based
+[BIN] dotman          [active] · Go CLI for cross-OS dotfile management
+```
+
+`// more on` [**pramodhayyappan.dev/projects**](https://pramodhayyappan.dev/projects) `↗`
+
+<h3>
+  <code>pa@dev</code><code>:</code><code>~</code><code>$</code>
+  <code>cat contact.txt</code>
+</h3>
+
+- `./linkedin.sh` → [linkedin.com/in/pramodhayyappan](https://linkedin.com/in/pramodhayyappan)
+- `./blog.sh`    → [pramodhayyappan.dev](https://pramodhayyappan.dev)
+- `./email.sh`   → [pramodh.ayyappan@hotmail.com](mailto:pramodh.ayyappan@hotmail.com)
+
+<h3>
+  <code>pa@dev</code><code>:</code><code>~</code><code>$</code>
+  <code>stats --user pa</code>
+</h3>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=pa&show_icons=true&hide_border=false&bg_color=0a0a0a&title_color=00ff41&text_color=ccffcc&icon_color=00cc33&border_color=1a4a2a" alt="pa github stats" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pa&layout=compact&hide_border=false&bg_color=0a0a0a&title_color=00ff41&text_color=ccffcc&border_color=1a4a2a" alt="pa top languages" />
+</p>
+
+<sub><code>pa@dev</code><code>:</code><code>~</code><code>$</code> <code>▊</code></sub>
