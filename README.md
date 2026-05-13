@@ -2,31 +2,6 @@
   <img src="https://raw.githubusercontent.com/pa/pa/master/assets/hero.svg?v=2" alt="$ terraform apply -auto-approve  module.engineer.pa.role = Tech Lead DevOps  Apply complete! 4 added, 0 destroyed." width="800"/>
 </p>
 
-<h3><code>$ cat Dockerfile</code></h3>
-
-```dockerfile
-FROM india:chennai-latest
-LABEL maintainer="pa@dev" since="2015-10"
-
-ENV ROLE="Tech Lead DevOps" \
-    COMPANY="Facets.cloud" \
-    FOCUS="Internal Developer Platforms · Cloud · DX"
-
-RUN apk add --no-cache \
-    kubernetes terraform aws-cli gcp-sdk azure-cli \
-    docker helm argocd prometheus grafana teleport \
-    go python rust bash typescript
-
-COPY ./career /opt/eleven-years
-WORKDIR /opt/career/facets.cloud
-
-EXPOSE 22 80 443 8080
-HEALTHCHECK --interval=1d CMD curl -fsS http://localhost/still-shipping || exit 1
-
-ENTRYPOINT ["./solve-platform-problems.sh"]
-CMD ["--mode=opinionated", "--scope=zero-to-one"]
-```
-
 <h3><code>$ kubectl get skills -o wide</code></h3>
 
 ```text
